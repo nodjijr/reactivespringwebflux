@@ -35,15 +35,10 @@ The application contains the following REST APIs
 ```
 1. GET /users - Get All Users
 
-2. POST /users - To create a User
+2. POST /users/create - To create a User
+rId} - Delete an User
 
-3. GET /users/{userId} - Retrieve an User by Id
 
-3. PUT /users/{userId} - Update an User
-
-4. DELETE /users/{userId} - Delete an User
-
-4. GET /users/events - Stream users to a browser as Server-Sent Events
 ```
 
 It contain a sample WebClient to retrieve data from our User Management application.
