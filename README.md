@@ -23,17 +23,12 @@ To run the application execute the following:
 java -jar target/reactivespringwebflux*.jar
 ```
 
-You can also use the Swagger-UI to test the application.
-![alt text](react-starter-demo.png)
-
 for more detailed technical information please check my
 post : <https://dassum.medium.com/building-a-reactive-restful-web-service-using-spring-boot-and-postgres-c8e157dbc81d>
 
 The server will start at <http://localhost:8080>.
 
 ## Exploring the Rest APIs
-
-The Swagger UI will open at : <http://localhost:8080/swagger-ui/index.html>
 
 The application contains the following REST APIs
 
